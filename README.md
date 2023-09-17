@@ -3,16 +3,18 @@ Mini projects from ECE 458 computer security about Vignere ciphers and side-chan
 
 Assignment 1:
 
-Main files:
+Main files: https://github.com/HPS-1/Computer_Security_Projects_ECE458/blob/main/Assignment1/EncrypterDecrypter.py
 
-Manual:
+https://github.com/HPS-1/Computer_Security_Projects_ECE458/blob/main/Assignment1/StatisticsAnalyzer.py
 
-Report:
+Manual: https://github.com/HPS-1/Computer_Security_Projects_ECE458/blob/main/Assignment1/ECE458-S2023-Assignment1.pdf
+
+Report: https://github.com/HPS-1/Computer_Security_Projects_ECE458/blob/main/Assignment1/Peisen%20_Hu_ECE458_Lab1_Report.pdf
 
 Assignment 2:
 
-Main files:
+Main file: https://github.com/HPS-1/Computer_Security_Projects_ECE458/blob/main/Assignment2/A2.cpp
 
-Manual:
+Manual: https://github.com/HPS-1/Computer_Security_Projects_ECE458/blob/main/Assignment2/ECE458-S2023-Assignment2.pdf
 
-Report:
+Report: https://github.com/HPS-1/Computer_Security_Projects_ECE458/blob/main/Assignment2/A2_Peisen_Hu_Report.pdf
